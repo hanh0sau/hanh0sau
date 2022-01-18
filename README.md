@@ -1,3 +1,3 @@
 ### My profile
 
-<img src="https://thumbs.gfycat.com/SelfassuredFrenchAmericankestrel-max-1mb.gif">
+<img src="https://media2.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif" width="100%" height="100%">
