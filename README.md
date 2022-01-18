@@ -3,5 +3,5 @@
 - I'm `Hoang Anh`
 - Living in Ho chi Minh city
 - <b><i>... End :v ...</i></b>
-## <h1 align="center">Socials</h1><br>
-<img src'https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg'>
+## <h1 align="center">Socials</h1>
+<img src='https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg'>
