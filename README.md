@@ -2,6 +2,6 @@
 ## <h1 align="center">My profile</h1><br>
 - I'm `Hoang Anh`
 - Living in Ho chi Minh city
-- <b><i>... end :v ...</i></b>
+- <b><i>... End :v ...</i></b>
 ## <h1 align="center">Socials</h1><br>
 - test
