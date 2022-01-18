@@ -1,3 +1,3 @@
 ### My profile
 
-<img src="https://media2.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif" width="100%" height="10%">
+<img src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-69.gif">
