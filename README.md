@@ -1,1 +1,1 @@
-## <div align='center'>Hi <img src="https://i.pinimg.com/originals/1e/3e/37/1e3e3738d81b9db4f6b6505b236a996a.gif"></div>
+## <div align='center'>Hi <img src="https://cliply.co/wp-content/uploads/2021/08/472108440_HELLO_STICKER_400px.gif" width='50px' height='50px'></div>
