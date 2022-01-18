@@ -4,4 +4,4 @@
 - Living in Ho chi Minh city
 - <b><i>... End :v ...</i></b>
 ## <h1 align="center">Socials</h1>
-<div align='center'><img src='https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg' width='50px'>                    <img src='https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg' width='50px'></div>
+<div align='center'><img src='https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg' width='50px'> | <img src='https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg' width='50px'></div>
